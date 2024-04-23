@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohd-Faizan-Khan
 - 👀 I’m interested in learning and implimentation work.
-- 🌱 I’m currently learning c++, Java, HTML, CSS, etc.
+- 🌱 I’m currently learning Java, HTML, CSS, etc.
 - 📫 How to reach me faizan10072002@gmail.com
 
 <!---
